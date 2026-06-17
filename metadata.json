@@ -1,0 +1,6 @@
+{
+  "name": "المنصة الذكية",
+  "description": "منصة أندرويد متكاملة تدمج محرك التوجيهات BuilderEngine ومولد التقارير الشجرية TreeDoc ومنفذ الأوامر مع الذكاء الاصطناعي وبلاطة إعدادات سريعة وفقاعة عائمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
